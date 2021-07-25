@@ -1,0 +1,42 @@
+[
+    {
+        "productId": 1,
+        "manufacturer": "smallbox company plc",
+        "sku": "tee778383",
+        "upc": "43455555666",
+        "quantityOnHand": 18,
+        "productName": "Sprocket"
+    },
+    {
+        "productId": 2,
+        "manufacturer": "smallbox company plc",
+        "sku": "tee778383",
+        "upc": "43455555666",
+        "quantityOnHand": 18,
+        "productName": "Sprocket"
+    },
+    {
+        "productId": 3,
+        "manufacturer": "smallbox company plc",
+        "sku": "tee778383",
+        "upc": "43455555666",
+        "quantityOnHand": 18,
+        "productName": "Sprocket"
+    },
+    {
+        "productId": 4,
+        "manufacturer": "smallbox company plc",
+        "sku": "tee778383",
+        "upc": "43455555666",
+        "quantityOnHand": 18,
+        "productName": "Sprocket"
+    },
+    {
+        "productId": 5,
+        "manufacturer": "smallbox company plc",
+        "sku": "tee778383",
+        "upc": "43455555666",
+        "quantityOnHand": 18,
+        "productName": "Sprocket"
+    }
+]
